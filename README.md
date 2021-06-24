@@ -22,8 +22,3 @@
  
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Moh-Maher/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Moh-Maher">
-</a>
-<a href="https://github.com/Moh-Maher?tab=followers"><img src="https://img.shields.io/github/followers/Moh-Maher?label=Followers&style=social" alt="GitHub Badge"></a>
