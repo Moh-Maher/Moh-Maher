@@ -1,11 +1,11 @@
 
 ## 📱 Contact
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> `mohammed.maher@unical.it` 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
 
 ## 👨👩 Social
  
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" <href=https://www.facebook.com/mohammedmaher8932/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
  
 
 ## 👩‍💻 Languages
