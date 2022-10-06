@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher</h1>
-<h3 align="center">I'm a theoretical Particle Physicist with strong interest in numerical analysis and scientific computing .</h3>
+<h3 align="center">I'm a theoretical Particle Physicist with a strong interest in numerical analysis and scientific computing .</h3>
 
 
  
@@ -16,7 +16,8 @@
 
 <a href="https://github.com/Moh-Maher">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-maher&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
-</a>                       
+</a>  
+
 #### Find me
 <p>
   <a href="mailto:mohammed.maher@unical.it">
