@@ -11,6 +11,13 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+#### Stats
+
+<a href="https://github.com/Moh-Maher">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Moh-Maher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Maher
+                           
 #### Find me
 <p>
   <a href="mailto:mohammed.maher@unical.it">
