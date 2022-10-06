@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Wolfram Mathematica](https://img.shields.io/badge/[-mathematica-000?logo=mathematica](https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg))
+![Wolfram Mathematica](https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg)
 
 #### Stats
 
