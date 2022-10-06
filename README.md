@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher</h1>
-<h3 align="center"> Work interests: Scientific computing, numerical linear algebra, fault-tolerant algorithms, C++ nerd. </h3>
+<h3 align="center"> Work interests: High-energy physics phenomenology, scientific computing, numerical linear algebra, C++ nerd. </h3>
 
 <a href="https://github.com/nschloe/optimesh">
   <img src="https://meshpro.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Wolfram Mathematica](https://img.shields.io/badge/-mathematica-000?logo=mathematica)
 
 #### Stats
 
