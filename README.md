@@ -1,8 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher <a href= "https://orcid.org/0000-0002-6449-2257">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher 
+    <a href= "https://orcid.org/0000-0002-6449-2257">
     <img alt="Facebook" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-    </a></h1>
+    </a>
+</h1>
 <h3 align="center"> Work interests: High-energy physics phenomenology, scientific computing, numerical linear algebra. </h3>
 
 <a href="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv">
@@ -36,8 +38,6 @@
   <a href= "https://www.linkedin.com/in/mohammed-m-a-mohammed-740162b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAw%2B8788JRUuaOiYfYaZbfQ%3D%3D">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
   </a>
-  <a href= "https://orcid.org/0000-0002-6449-2257">
-    <img alt="Facebook" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-    </a>
+ 
 </p>
 
