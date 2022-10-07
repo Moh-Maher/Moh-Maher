@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/a/ALm5wu3YO-SHgd21iKHRXnmwKEbUPBtSrW3eoBFRAYZcHQ=s288-p-no"  height="1px" width="3px" /></a>
+<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/a/ALm5wu3YO-SHgd21iKHRXnmwKEbUPBtSrW3eoBFRAYZcHQ=s288-p-no"  height="10%" width="20%" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher 
     <a href= "https://orcid.org/0000-0002-6449-2257">
