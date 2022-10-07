@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media1.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47g24xpqa5ir3b7ohiy3phrcj2qawp6s9onu59ctjp&rid=giphy.gif&ct=g" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher 
     <a href= "https://orcid.org/0000-0002-6449-2257">
