@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher</h1>
 <h3 align="center"> Work interests: High-energy physics phenomenology, scientific computing, numerical linear algebra. </h3>
 
-<a href="https://github.com/nschloe/optimesh">
+<a href="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv">
   <img src="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv" align="right" width="20%"/>
 </a>
 
