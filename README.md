@@ -21,8 +21,10 @@
   <a href="https://github.com/Moh-Maher">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
- <a href="https://inspirehep.net/authors/1057168">
+ <a href= "https://www.facebook.com/mohammedmaher8932">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href= "https://www.linkedin.com/in/mohammed-m-a-mohammed-740162b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAw%2B8788JRUuaOiYfYaZbfQ%3D%3D">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    
   </a>
 </p>
