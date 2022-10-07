@@ -22,7 +22,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
  <a href="https://inspirehep.net/authors/1057168">
-    <img alt="inspirehep" src="https://img.shields.io/badge/keybase/inspirehep/:Moh-Maher&style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img alt="inspirehep" src="https://img.shields.io/badge/-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
