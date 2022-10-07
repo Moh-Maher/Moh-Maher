@@ -4,7 +4,7 @@
 <h3 align="center"> Work interests: High-energy physics phenomenology, scientific computing, numerical linear algebra. </h3>
 
 <a href="https://github.com/nschloe/optimesh">
-  <img src="https://meshpro.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+  <img src="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv" align="right" width="20%"/>
 </a>
 
 ### Languages
@@ -20,11 +20,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-maher&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>  
 
-
-<a href="https://github.com/Moh-Maher">
-  <img height="137px" src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moh-maher&theme=vue
-" />
-</a> 
 
 #### Find me
 <p>
