@@ -5,7 +5,7 @@
     <img alt="Facebook" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
 </h1>
-<h3 align="center"> Work interests: High-energy physics phenomenology, scientific computing, numerical linear algebra. </h3>
+<h3 align="center"> Work interests: Interactive Quantum Mechanics Calculations , Scientific Computing, Numerical Linear Algebra. </h3>
 
 <a href="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv">
   <img src="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv" align="right" width="20%"/>
