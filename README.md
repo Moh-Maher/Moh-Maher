@@ -7,8 +7,8 @@
 </h1>
 <h3 align="center"> Work interests: Interactive Quantum Mechanics Calculations , Scientific Computing, Numerical Linear Algebra. </h3>
 
-<a href="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv">
-  <img src="https://64.media.tumblr.com/e50c319c72c2ad88748e410d5191b2a4/tumblr_myf7mukR6q1s2t3cto1_400.gifv" align="right" width="20%"/>
+<a href="![Alt text](https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif">
+  <img src="![Alt text](https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
 </a>
 
 ### Languages
