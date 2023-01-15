@@ -7,8 +7,8 @@
 </h1>
 <h3 align="center"> Work interests: Interactive Quantum Mechanics Calculations , Scientific Computing, Numerical Linear Algebra. </h3>
 
-<a href="![Alt text](https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif">
-  <img src="![Alt text](https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
+<a href="https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif">
+  <img src="https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
 </a>
 
 ### Languages
@@ -17,12 +17,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-
-#### Most Used Language
-
-<a href="https://github.com/Moh-Maher">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-maher&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
-</a>  
 
 
 #### Find me
