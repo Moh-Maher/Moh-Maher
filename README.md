@@ -5,7 +5,7 @@
     <img alt="Facebook" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
 </h1>
-<h3 align="center"> Work interests: AI-based computational tools for High-Energy Physics, Interactive Quantum Mechanics Calculations. </h3>
+<h3 align="center"> Work interests: AI-based computational tools for High-Energy Physics, Interactive QM Calculations. </h3>
 
 <a href="https://github.com/Moh-Maher/3DPhyS-x">
   <img src="https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
