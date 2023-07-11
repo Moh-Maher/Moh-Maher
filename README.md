@@ -10,10 +10,6 @@
   <img src="https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
 </a>
 
-<a href="https://github.com/Moh-Maher/3DPhyS-x">
-  <img src="https://github.com/Moh-Maher/3DPhyS-x/blob/main/Snaps/Screencast%20from%2015-01-23%2014%2029%2046.gif" align="right" width="20%"/>
-</a>
-
 ### Languages
 
 
