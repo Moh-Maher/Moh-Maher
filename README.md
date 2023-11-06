@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Maher 
     <a href= "https://orcid.org/0000-0002-6449-2257">
-    <img alt="Facebook" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
     </a>
 </h1>
 <h3 align="center"> Work interests: AI-based computational tools for High-Energy Physics, Interactive QM Calculations. </h3>
